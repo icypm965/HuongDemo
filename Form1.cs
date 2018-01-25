@@ -21,5 +21,8 @@ namespace BTTHGithub
 	public int TinhTRU(int a, int b) {
             return a - b;
         }
+	public int Tinhnhan(int a, int b) {
+            return a * b;
+        }
     }
 }
