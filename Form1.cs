@@ -15,5 +15,8 @@ namespace BTTHGithub
         {
             InitializeComponent();
         }
+        public int Tinh(int a, int b) {
+            return a + b;
+        }
     }
 }
