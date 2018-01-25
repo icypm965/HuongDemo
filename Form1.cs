@@ -18,5 +18,8 @@ namespace BTTHGithub
         public int Tinh(int a, int b) {
             return a + b;
         }
+	public int TinhTRU(int a, int b) {
+            return a - b;
+        }
     }
 }
